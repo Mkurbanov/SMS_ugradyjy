@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS ugradyjy</string>
+    <string name="connecting">Çatylýaryn</string>
+    <string name="connect_error">Servera birikmede näsazlyk</string>
+    <string name="listening_server">Serwery diňleýärin</string>
+    <string name="message_received">SMS geldi</string>
+    <string name="message_sending">Ugradýaryn</string>
+    <string name="message_sended">Ugradyldy</string>
+</resources>
